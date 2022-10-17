@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://discord.com/users/1012688962206314516">
-        <img title="hk" alt="hk" src="https://discord.c99.nl/widget/theme-1/200116071640989696.png"/>
+        <img title="scaratchy" alt="scaratchy" src="[https://discord.c99.nl/widget/theme-1/200116071640989696.png](https://discord.c99.nl/widget/theme-3/1012688962206314516.png)"/>
     </a>
 </p>
 
@@ -14,9 +14,6 @@
 ```csharp
 MessageBox.Show("I Am Noob.", "Github.com/Scaratchy", MessageBoxButton.OK, MessageBoxIcon.Infomation)
 ```
-/*<p href="https://discord.gg/hypernite" align="center">
-    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/1012688962206314516/>
-</p>*/
 
 # About Me:
 
