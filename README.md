@@ -2,11 +2,12 @@
   <a href="https://www.fbi.gov/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/112181082?v=4" alt="Scaratchy's Github"/></a>
 </p>
 
-  <p align="center">
+ <p align="center">
     <a href="https://discord.com/users/1012688962206314516">
-        <img title="scaratchy" alt="scaratchy" src="[https://discord.c99.nl/widget/theme-1/200116071640989696.png](https://discord.c99.nl/widget/theme-3/1012688962206314516.png)"/>
+        <img title="hk" alt="hk" src="https://discord.c99.nl/widget/theme-3/1012688962206314516.png"/>
     </a>
 </p>
+
 
 
 <p align="center"><img src="https://gpvc.arturio.dev/Scaratchy" alt="Visitors"></a>
